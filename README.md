@@ -23,7 +23,7 @@ Detailed usage information, original repository and license can be found on the 
 
 ### Semantic Segmentation
 ##### [face-parsing](https://github.com/john-rocky/CoreML-Face-Parsing)
-##### [easyportrait](https://github.com/john-rocky/easyportrait-coreml))
+##### [easyportrait](https://github.com/john-rocky/easyportrait-coreml)
 
 ### Image Generation
 ##### [Mobile StyleGAN](https://github.com/john-rocky/CoreML-StyleGAN) 
