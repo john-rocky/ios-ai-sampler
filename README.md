@@ -23,7 +23,7 @@
 ### [yolov5-iOS](https://github.com/john-rocky/CoreML-YOLOv5)
 Sample: https://github.com/john-rocky/CoreML-YOLOv5
 
-<img width="100" alt="スクリーンショット 2021-12-27 6 34 43" src="https://user-images.githubusercontent.com/23278992/147620103-ef113d22-eb7a-4399-a9fa-58970e3896b1.PNG">
+<img width="200" alt="スクリーンショット 2021-12-27 6 34 43" src="https://user-images.githubusercontent.com/23278992/147620103-ef113d22-eb7a-4399-a9fa-58970e3896b1.PNG">
 
 | Core ML Model Link | Original Project | License  | 
 | -------------  | ------------- |------------- |
