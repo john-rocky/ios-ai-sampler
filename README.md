@@ -16,8 +16,8 @@
 # Note
 Detailed usage information, original repository and license can be found on the sample page.
 
-# Object Detection
-### [yolov5-iOS](https://github.com/john-rocky/CoreML-YOLOv5)
+### Object Detection
+##### [yolov5-iOS](https://github.com/john-rocky/CoreML-YOLOv5)
 
-# Semantic Segmentation
-### [face-parsing](https://github.com/john-rocky/CoreML-Face-Parsing)
+### Semantic Segmentation
+##### [face-parsing](https://github.com/john-rocky/CoreML-Face-Parsing)
