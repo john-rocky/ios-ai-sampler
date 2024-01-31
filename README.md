@@ -32,4 +32,8 @@ Detailed usage information, original repository and license can be found on the 
 ##### [AOT-GAN-for-Inpainting](https://github.com/john-rocky/Inpainting-CoreML)
 ##### [LaMa](https://github.com/john-rocky/lama-cleaner-iOS) 
 
+### Image2Image
+
+##### [AnimeGANv2](https://github.com/john-rocky/AnimeGANv2-iOS/tree/main)
+
 
