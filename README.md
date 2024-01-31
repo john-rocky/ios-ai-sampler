@@ -20,6 +20,7 @@ Detailed usage information, original repository and license can be found on the 
 
 ### Object Detection
 ##### [yolov5-iOS](https://github.com/john-rocky/CoreML-YOLOv5)
+##### [yolov8-RealTime-iOS](https://github.com/john-rocky/Yolov8-RealTime-iOS)
 
 ### Semantic Segmentation
 ##### [face-parsing](https://github.com/john-rocky/CoreML-Face-Parsing)
